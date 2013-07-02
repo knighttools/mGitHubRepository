@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, SmsCut!</string>
+    <string name="app_name">短信拦截器</string>
+</resources>
